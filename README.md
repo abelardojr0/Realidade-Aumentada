@@ -1,5 +1,11 @@
 # Realidade-Aumentada
 
+
+SLIDE: https://www.canva.com/design/DAGVtnt8Nzk/ErvPnyGceKxZ9jdPsq67jQ/edit?utm_content=DAGVtnt8Nzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+PARA CONFIGURAR E INSTALAR O VUFORIA================================================================
+
 Acesse: https://developer.vuforia.com/home
 
 Crie sua Conta
@@ -38,7 +44,7 @@ Agora seu vuforia está configurado.
 
 
 
-
+PARA INSTALAR CONFIGURAR O UNITY HUB ==============================================
 
 Vamos baixar e instalar o Unity Hub
 
